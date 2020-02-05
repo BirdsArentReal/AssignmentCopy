@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">AssignmentCopy</string>
+    <string name="stuff1">GM</string>
+    <string name="stuffA">We come together to bond with fellow members of the interest group!</string>
+    <string name="stuff2">Camp</string>
+    <string name="stuffB">We meet up as one interest group to attend talks, do experiments, discuss our theories to problems, learn new things, and have fun!</string>
+    <string name="stuff3">Planning events</string>
+    <string name="stuffC">Quanta members help with events like Open House, DSA Camp, and DSA preview!</string>
+
+    <string name="event1">Solar Eclipse</string>
+    <string name="eventA">We took pictures for the Dec 26 solar eclipse!</string>
+    <string name="event2">EXcite</string>
+    <string name="eventB">We host fun booths for EXcite you can come see!</string>
+    <string name="event3">Trivia</string>
+    <string name="eventC">Follow us on instagram for random physics trivia!</string>
+
+</resources>
+

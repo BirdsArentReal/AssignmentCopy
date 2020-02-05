@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".SourceActivity"
+    android:orientation="vertical"
+    android:background="#000000">
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="back"
+        android:layout_margin="10dp"
+        android:onClick="back"
+        android:textSize="20sp"
+        android:background="@android:color/holo_green_light"/>
+    <Space
+        android:layout_width="match_parent"
+        android:layout_height="20dp"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:textSize="20sp"
+        android:textColor="#FFFFFF"
+        android:text="1. https://phys.org/news/2019-05-thermal-analog-black-hole-hawking.html \n\n 2. Stolen from quanta instagram"/>
+
+</LinearLayout>
